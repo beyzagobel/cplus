@@ -1,3 +1,0 @@
-C++ kodunu Visual Studio Code üzerinde çalıştırmak için;
-1.
- Vs code eklentilerden c/c++ intellisense 
