@@ -2,7 +2,7 @@
 
 Merhaba , öğrenmek ve aynı  zamanda da öğretmek için yazdığım basic projeleri sizlerle paylaşmak istedim.
 
-Umarım sıkılmadan basitte olsa en baştan başlar ve birlikte neler öğrendiklerimizi görebiliriz :)
+Umarım sıkılmadan basitte olsa en baştan başlar ve birlikte neler öğrendiklerimizi birlikte görebiliriz 🙂  
 
 > Ben C++ kodlama yaparken Visual Studio Code editörünü kullandım. Bunun içinde c++ ve eklentilerini kurmak gerekmektedir.
 
