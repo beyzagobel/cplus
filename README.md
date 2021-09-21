@@ -4,10 +4,10 @@ Merhaba , öğrenmek ve aynı  zamanda da öğretmek için yazdığım basic pro
 
 Umarım sıkılmadan basitte olsa en baştan başlar ve birlikte neler öğrendiklerimizi görebiliriz :)
 
-Ben C++ kodlama için Visual Studio Code editörünü kullandım. Bunun içinde bazı eklentiler eklemek gerekmektedir. 
+> Ben C++ kodlama yaparken Visual Studio Code editörünü kullandım. Bunun içinde c++ ve eklentilerini kurmak gerekmektedir.
 
 -------------
-### Visual Studio Code üzerinde C++ Kurulumu 
+### Visual Studio Code üzerinde C++ ve Eklentilerinin Kurulumu 
 
 
 1. `VsCode Eklentiler` > [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) indir : C++ kodlarını derleyebilmek için . 
