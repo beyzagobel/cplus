@@ -1,3 +1,3 @@
-C++ kodunu Visual Studio Code üzerinde çalıştırmak için;
-1.
- Vs code eklentilerden c/c++ intellisense 
+                              C++ kodunu Visual Studio Code üzerinde çalıştırmak için;
+yapmamız gerekenler : vs code eklentilerden c/c++ intellisense ve code runner indirmek , masaüstüne Mingw64 indirmek
+1. Vs code eklentilerden c/c++ intellisense 
