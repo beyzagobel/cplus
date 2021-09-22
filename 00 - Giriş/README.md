@@ -21,13 +21,5 @@
        // şimdilik yazacağımız tüm komutları main() fonksiyonu içerisinde tanımlayacağız.
 }
 ```
-- `cout<<` (output) operatörü, ekrana komuttan sonra gelen tırnak işaretleri içinde yer alan cümleyi yazar.
-```
-4. cout<<"Merhaba";           çıktı : Merhaba
-   
-```
-- `cin>>` (input) operatörünün sağ tarafına yazılan değişkenlere, kullanıcı tarafından girilen veriler atanır.
-
-- `return 0;` , `main()` fonksiyonunu bitirir.
 
 **Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım 🙂**
