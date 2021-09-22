@@ -28,4 +28,4 @@
 ```
 - `cin>>` operatörünün sağ tarafına yazılan değişkenlere, kullanıcı tarafından girilen veriler atanır.
 
-**Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım 🙂 **
+**Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım 🙂**
