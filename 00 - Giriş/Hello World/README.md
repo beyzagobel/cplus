@@ -28,4 +28,6 @@
 ```
 - `cin>>` operatörünün sağ tarafına yazılan değişkenlere, kullanıcı tarafından girilen veriler atanır.
 
+- `return 0;` , `main()` fonksiyonunu bitirir.
+
 **Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım 🙂**
