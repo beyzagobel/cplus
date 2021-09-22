@@ -18,7 +18,10 @@
 
 ```
 int main(){
-       // şimdilik yazacağımız tüm komutlarıda main() fonksiyonu içerisine tanımlayacağız.
+       cout<<" yazılan her veri ekrana çıktı veir";
+       cin>>"kullanıcı tarafından girilen girdiler";
+       
+       // şimdilik yazacağımız tüm komutları main() fonksiyonu içerisinde tanımlayacağız.
 }
 ```
 - Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım :)
