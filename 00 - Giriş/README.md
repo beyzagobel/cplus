@@ -21,5 +21,6 @@
        // şimdilik yazacağımız tüm komutları main() fonksiyonu içerisinde tanımlayacağız.
 }
 ```
+- `return 0;` komutu ile main() fonksiyonunu bitiririz. Her fonksiyonu bitirmemiz gerekir.
 
 **Şimdi artık klasik olan ilk programımız ' Hello Word ' kodlayalım 🙂**
