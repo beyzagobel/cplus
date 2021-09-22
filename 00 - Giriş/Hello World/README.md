@@ -21,12 +21,12 @@
        // şimdilik yazacağımız tüm komutları main() fonksiyonu içerisinde tanımlayacağız.
 }
 ```
-- `cout<<` operatörü, ekrana komuttan sonra gelen tırnak işaretleri içinde yer alan cümleyi yazar.
+- `cout<<` (output) operatörü, ekrana komuttan sonra gelen tırnak işaretleri içinde yer alan cümleyi yazar.
 ```
 4. cout<<"Merhaba";           çıktı : Merhaba
    
 ```
-- `cin>>` operatörünün sağ tarafına yazılan değişkenlere, kullanıcı tarafından girilen veriler atanır.
+- `cin>>` (input) operatörünün sağ tarafına yazılan değişkenlere, kullanıcı tarafından girilen veriler atanır.
 
 - `return 0;` , `main()` fonksiyonunu bitirir.
 
