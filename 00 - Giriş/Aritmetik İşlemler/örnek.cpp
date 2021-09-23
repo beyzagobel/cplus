@@ -7,7 +7,7 @@ int main(){
 
     cout<<endl;
 
-    cout<<8-2;
+ /*   cout<<8-2;
 
     cout<<endl;
 
@@ -16,6 +16,6 @@ int main(){
     cout<<endl;
 
     cout<<8/2;
-
+*/
 
 }
