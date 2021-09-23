@@ -7,3 +7,6 @@ int main(){
     // bu iki satır kod yerine aşağıdaki tek satır kodda yeterli olucaktır //
     cout<<"4 + 5 = "<<4+5;
 }
+
+çıktı
+4 + 5 = 9
