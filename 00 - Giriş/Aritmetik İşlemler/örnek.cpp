@@ -3,9 +3,10 @@ using namespace std;
 
 int main(){
     
-    cout<<8+2;
+    cout<<"beyza"
+   // cout<<8+2;
 
-    cout<<endl;
+   // cout<<endl;
 
  /*   cout<<8-2;
 
