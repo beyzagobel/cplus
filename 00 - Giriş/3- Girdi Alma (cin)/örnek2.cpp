@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
+    string ad;
     int yil;
+    cout<<
     cout<<"Hangi yilda dogdunuz :";
     cin>>yil;
     cout<<"Yasiniz :"<<2021-yil;
