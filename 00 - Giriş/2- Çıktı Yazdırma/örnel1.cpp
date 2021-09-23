@@ -8,11 +8,3 @@ int main(){
     cout<<endl;       // endl komutu bir satır atlatır.
     cout<<"4 + 5 = "<<4+5;
 }
-
-"""
-Output:
-
-4 + 5 = 9
-4 + 5 = 9
-
-"""
