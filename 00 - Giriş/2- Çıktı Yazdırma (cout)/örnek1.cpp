@@ -18,6 +18,8 @@ int main(){
 
     cout<<"4"<<" + "<<"5"<<" = "<<4+5;
    
+    return 0;
+    
     // burada olduğu gibi nasıl çıktı almak istiyorsanız veya nasıl yazmak isterseniz o şekilde kodlarınızı düzenleyebilirsiniz 
 
 }
