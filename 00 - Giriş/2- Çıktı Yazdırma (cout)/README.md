@@ -1,5 +1,6 @@
 ## C++ Programlamada Çıktı Yazdırma
 - C++ programlamada kullanıcıya bilgi aktarmak için standart çıktı(output) nesnesi olan `cout` kullanılır. 
+- `<iostream>` kütüphanesindendir.
 - `Cout` nesnesinden sonra gelen `<<` operatörünün sağ tarafına yazılanlar çıktı ekranına yansımaktadır.
 
 ```
