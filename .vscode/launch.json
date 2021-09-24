@@ -10,7 +10,7 @@
             "miDebuggerPath": "C:\\MinGw\\bin\\gdb.exe",
             "stopAtEntry": false,
             "cwd": "${workspaceRoot}",
-            "externalConsole": false,
+            "externalConsole": true,
             "visualizerFile": "${workspaceRoot}/my.natvis"
         }
     ]
