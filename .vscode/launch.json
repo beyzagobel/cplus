@@ -2,16 +2,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C++ Launch (Windows)",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${workspaceRoot}/hello.exe",
-            "MIMode": "gdb",
-            "miDebuggerPath": "C:\\MinGw\\bin\\gdb.exe",
-            "stopAtEntry": false,
-            "cwd": "${workspaceRoot}",
-            "externalConsole": true,
-            "visualizerFile": "${workspaceRoot}/my.natvis"
-        }
+            "name": "C++ Launch (GDB)",                
+            "type": "cppdbg",                         
+            "request": "launch",                        
+            "targetArchitecture": "x86",                
+            "program": "${workspaceRoot}\\${fileBasename}.exe",                 
+            "miDebuggerPath":"C:\\mingw-w64\\bin\\gdb.exe", 
+            "args": [],     
+            "stopAtEntry": false,                  
+            "cwd": "${workspaceRoot}",                  
+            "externalConsole": true,                  
+            "preLaunchTask": "g++"　　                  
+            }
     ]
-}
+ }
