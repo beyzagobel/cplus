@@ -8,23 +8,37 @@ int main(){
     int sayi1,sayi2;
     cout<<"Birinci sayiyi giriniz : ";
     cin>>sayi1;
-    cout<<"İkinci sayiyi giriniz : ";
+    cout<<"Ikinci sayiyi giriniz : ";
     cin>>sayi2;
 
 // Toplama İşlemi
-   cout<<sayi1<<" + "<<sayi2<<" = "<<sayi1+sayi2;
+
+   cout<<"Bu iki sayinin toplami => "<<sayi1<<" + "<<sayi2<<" = "<<sayi1+sayi2<<endl;
 
 // Çıkarma İşlemi
 
-   cout<<sayi1<<" - "<<sayi2<<" = "<<sayi1-sayi2<<endl;
+  cout<<"Bu iki sayinin farki => "<<sayi1<<" - "<<sayi2<<" = "<<sayi1-sayi2<<endl;
 
 // Çarpma İşlemi
 
-   cout<<sayi1<<" * "<<sayi2<<" = "<<sayi1*sayi2;
+  cout<<"Bu iki sayinin carpimi => "<<sayi1<<" * "<<sayi2<<" = "<<sayi1*sayi2<<endl;
 
 // Bölme İşlemi
 
-   cout<<sayi1<<" / "<<sayi2<<" = "<<sayi1/sayi2;
+  cout<<"Bu iki sayinin bolumu => "<<sayi1<<" / "<<sayi2<<" = "<<sayi1/sayi2;
 
+/* 
+
+Output
+
+Birinci sayiyi giriniz : 6
+Ikinci sayiyi giriniz : 2
+Bu iki sayinin toplami => 6 + 2 = 8
+Bu iki sayinin farki => 6 - 2 = 4
+Bu iki sayinin carpimi => 6 * 2 = 12
+Bu iki sayinin bolumu => 6 / 2 = 3
+
+*/
     return 0;
+
 }
