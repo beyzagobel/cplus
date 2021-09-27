@@ -8,7 +8,7 @@ int main(){
     string ad,soyad;
     int kg;
     float boy;
-    float vucut_kitle_indeksi=kg/(boy*boy);
+    float vucut_kitle_indeksi=kg/(boy*boy); 
 
     cout<<"Ad - Soyad : ";
     cin>>ad>>soyad;
