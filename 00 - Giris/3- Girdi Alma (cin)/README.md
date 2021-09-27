@@ -3,7 +3,7 @@
 - `<iostream>` kütüphanesindendir.
 - `cin` den sonra gelen `>>` operatörünün sağ tarafına ise her türlü tipte veri saklayabildiğimiz değişken veya değişkenler yazılır.
 Kısacası bu değişkenlere kullacı tarafından terminale yazılan veriler atanmaktadır. Bu sayede kullanıcının programa girdiği veriler değişken adı altında programda tutulmaktadır.
-- Değişken tanımlamayı sonra anlatacağım fakat anlaşılsın diye kısaca şunu demeliyim ki değişkenin içinde hangi veri türünü barındırmak istiyorsak o türde değişken tanımlamalıyız.
+- Değişken tanımlamayı bir adım sonra anlatacağım fazla takılmayın fakat kısaca değinmek gerekirse, değişkenin içinde hangi veri türünü barındırmak istiyorsak o türde değişken tanımlamlarız.
 - örneğin;
 
 ``` 
