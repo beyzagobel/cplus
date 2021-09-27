@@ -30,4 +30,6 @@ Vucut agirliginizi giriniz : 53
 Boyunuzu giriniz : 1.60
 Beyza Gobel 'in beden kitle indeksi : 20.7
 
+*/
+
 }
