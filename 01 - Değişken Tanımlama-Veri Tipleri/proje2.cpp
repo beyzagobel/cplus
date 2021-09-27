@@ -1,26 +1,24 @@
+// Kullanıcının verilerine göre beden kitle indeksi hesaplama : kg/m^2
+
 #include <iostream>
 using namespace std;
 
 int main(){
 
-    int birinci_degisken;      //bu iki paragraf yerine de tek satırdada değişken tanımlayabiliriz
-    int ikinci_degisken;
-    
-    cout<<"Birinci degiskeni giriniz : ";
-    cin>>birinci_degisken;
-    cout<<"Ikinci degiskeni giriniz : ";
-    cin>>ikinci_degisken;
-    cout<<"Birinci Degisken + I5kinci Degisken = "<<birinci_degisken+ikinci_degisken;
+    string ad,soyad;
+    int kg;
+    float boy;
+    float vucut_kitle_indeksi=kg/(boy*boy);
 
+    cout<<"Ad - Soyad : ";
+    cin>>ad>>soyad;
+    cout<<"Merhaba "<<ad<<" "<<soyad<<endl;
+    cout<<"Vucut agirliginizi giriniz : ";
+    cin>>kg;
+    cout<<"Boyunuzu giriniz : ";
+    cin>>boy;
+    cout<<ad<<" "<<soyad<<" 'in vucut kitle indeksi : "<<vucut_kitle_indeksi;
     return 0;
 
-/*
-Output
-
-Birinci degiskeni giriniz : 3
-Ikinci degiskeni giriniz : 7
-Birinci Degisken + Ikinci Degisken = 10
-
-*/
 
 }
