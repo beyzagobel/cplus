@@ -35,6 +35,12 @@ int main(){
    int sayi3=3;
 // ya da;
    int sayi1=5,sayi2=7,sayi3=3;   // yine üstteki 3 paragraf yerine tek satırda değişkenlerin ilk ataması yapılabilir
-                                
+
+//ya da;                              
+   
+   int yeni_sayi=sayi1;  // diyerekte sayi1 değişkeninin değerini yeni_sayi değişkenine atamış oluruz
+
+   int toplam=sayi1+sayi1+sayi3;    // değişkenleri aritmetik işlemlere tabi tutup sonuçlarınıda bir değişkene atayabiliriz
+
     return 0;
 }
