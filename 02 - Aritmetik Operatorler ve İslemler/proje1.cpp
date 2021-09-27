@@ -27,6 +27,10 @@ int main(){
 
   cout<<"Bu iki sayinin bolumu => "<<sayi1<<" / "<<sayi2<<" = "<<sayi1/sayi2;
 
+// Mod Alma : Mod; 1. sayının 2. sayıya bölümünden kalandır
+  
+  cout<<"Bu iki sayinin mod islemi => "<<sayi1<<" % "<<sayi2<<" = "<<sayi1%sayi2;
+
 /* 
 
 Output
