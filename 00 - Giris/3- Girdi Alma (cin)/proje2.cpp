@@ -12,4 +12,13 @@ int main(){
     cout<<"Ucgenin alani : "<<(taban*h)/2;
     return 0;
 
+/* 
+Output
+
+Ucgenin yuksekligini giriniz : 4         //kullanıcı ne girmek isterse
+Ucgenin taban uzunlugunu giriniz : 3
+Ucgenin alani : 6
+
+*/
+
 }
