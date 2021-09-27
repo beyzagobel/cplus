@@ -16,7 +16,7 @@ int main(){
 
 // Çıkarma İşlemi
 
-   cout<<sayi1<<" - "<<sayi2<<" = "<<sayi1-sayi2;
+   cout<<sayi1<<" - "<<sayi2<<" = "<<sayi1-sayi2<<endl;
 
 // Çarpma İşlemi
 
