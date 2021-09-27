@@ -20,5 +20,18 @@ int main(){
    cout<<"Dikdortgenin cevresi : "<<(uzun_kenar*2)+(kisa_kenar*2)<<endl;
    cout<<"Dikdortgenin alani : "<<uzun_kenar*kisa_kenar;
    
+/*
+
+Output :
+
+Karenin kenarini giriniz : 4
+Karenin cevresi : 16
+Karenin alani : 16
+Dikdortgenin uzun kenarini giriniz : 4
+Dikdortgenin kisa kenarini giriniz : 2
+Dikdortgenin cevresi : 12
+Dikdortgenin alani : 8
+
+*/
 
 }
