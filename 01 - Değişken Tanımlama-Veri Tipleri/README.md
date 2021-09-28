@@ -53,7 +53,6 @@ C++ kütüphanelerini yazan programcılar değişkenlerine alt çizgi ile başla
 - Değişkenleri kullanmadan önce mutlaka tanımlamalıyız. Tanımlama yapılırken ;
 - `VeriTipi DegiskenAdi ;`  şeklinde tanımlama yapabiliriz ya da;
 - `VeriTipi DegiskenAdi = Veri;` şeklinde de değişkene ilk değer atamasınıda yapabiliriz.
-- 
 - örneğin;
 
 ```
@@ -68,32 +67,6 @@ bool a;
 a=4>5;   // a değişkenine; 4, 5'ten büyük ise true, değilse false atanır.
 
 ```
-
-- Değişkenlerin sakladıkları verileri değiştirmek için atama komutu (assignment statement) kullanılır. Eşittir(=) operatörüdür.
-- örneğin;
-
-```
-
-int a=5;     // a değişkeninin değeri 5 olarak atanmış
-a=10;        // a değişkeninin değerini 10 olarak değiştirildi
-----
-toplam=toplam+5;   // toplam değişkeninin değeri
-----
-yarim=tam/2;
------
-ucret=mmas-vergi;
-
-```
-
-
-
-
-
-
-
-
-
-
 
 
 
