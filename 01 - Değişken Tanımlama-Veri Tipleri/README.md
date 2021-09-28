@@ -52,7 +52,8 @@ C++ kütüphanelerini yazan programcılar değişkenlerine alt çizgi ile başla
 ## C++ Değişken Tanımlama
 - Değişkenleri kullanmadan önce mutlaka tanımlamalıyız. Tanımlama yapılırken ;
 - `VeriTipi DegiskenAdi ;`  şeklinde tanımlama yapabiliriz ya da;
-- `VeriTipi DegiskenAdi = Veri;` şeklinde de değişkene ilk değer atamasınıda yapabiliriz.
+- Değişkenlere değer atamak veya sakladıkları verileri değiştirmek için `atama komutu(=)` kullanılır.
+- `VeriTipi DegiskenAdi = Veri;` şeklinde de değişkene ilk değer atamasını yapabiliriz.
 - örneğin;
 
 ```
