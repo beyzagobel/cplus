@@ -25,9 +25,9 @@ int main(){
 
 // Bölme İşlemi
 
-  cout<<"Bu iki sayinin bolumu => "<<sayi1<<" / "<<sayi2<<" = "<<sayi1/sayi2;
+  cout<<"Bu iki sayinin bolumu => "<<sayi1<<" / "<<sayi2<<" = "<<sayi1/sayi2<<endl;
 
-// Mod Alma : Mod; 1. sayının 2. sayıya bölümünden kalandır
+// Mod Alma : Mod; 1. sayının 2. sayıya bölümünden kalanını verir
   
   cout<<"Bu iki sayinin mod islemi => "<<sayi1<<" % "<<sayi2<<" = "<<sayi1%sayi2;
 
@@ -41,6 +41,7 @@ Bu iki sayinin toplami => 6 + 2 = 8
 Bu iki sayinin farki => 6 - 2 = 4
 Bu iki sayinin carpimi => 6 * 2 = 12
 Bu iki sayinin bolumu => 6 / 2 = 3
+Bu iki sayinin mod islemi => 6 % 2 = 0
 
 */
     return 0;
