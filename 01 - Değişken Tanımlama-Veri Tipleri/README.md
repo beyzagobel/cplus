@@ -1,4 +1,4 @@
-# C++ programlamada Değişkenler
+# C++ Programlamada Değişkenler (Variables in C++ Programming)
 
 Hemen hemen tüm programramlarda değişkenlerle çalışmak zorundayız. O yüzden burada değişken kavramı, C++ dilinde değişken isimlendirme kuralları,
 bu değişkenleri nasıl tanımlayıp kullanacağımızı ve C++ dilindeki temel veri türlerini öğreneceğiz.
@@ -33,7 +33,7 @@ C++ kütüphanelerini yazan programcılar değişkenlerine alt çizgi ile başla
 
 > Değişken isimlendirmeyi öğrendiğimize göre şimdi de C++ dilindeki temel veri türlerini (type) öğrenebiliriz.
 
-## C++ Programlamada Temel Veri Tipleri (Basics of Variables for C++ Programming)
+## C++ Programlamada Temel Veri Tipleri (Basic Data Types in C++ Programming)
 - Programdaki veriler bellekte(RAM) depolanır ve kapladıkları alanları `byte(8 bit)` türünden ifade edilir. Bizde veri boyutu ve türüne göre ihtiyacımız olanı kullanırız.
 - Aşağıdaki tablodan programda kullandığımız temel veri tipleri, bellekte kapladıkları alanları ve kullanım aralıklarını görebilirsiniz.
 
