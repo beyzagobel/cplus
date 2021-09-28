@@ -1,20 +1,26 @@
 ## C++ Programlamada Operatörler (Operators in C ++ Programming)
-- C++ programlamada operatörler 6 tipte sınıflandırılır:
-1. Aritmetik Operatörler
-2. Aritmetik Atama Operatörleri
+1. Aritmetik Operatörler (Arithmetic Operators)
+2. Aritmetik Atama Operatörleri (Arithmetic Assignment Operators)
 3. Karşılaştırma Operatörleri (Relational Operators)
 4. Mantıksal Operatörler (Logical Operators)
-5. İlişkisel Operatörler
+5. Arttırma ve Azaltma Operatörleri
 -------
-### 1. Aritmetik Operatörler
+### 1. Aritmetik Operatörler                                              
 
-| Operatörle  | Açıklama |
-|:-------------:|:-------------:|
-| `+`  | Toplama operatörü  |
-| `-`  | Çıkarma operatörü  |
-| `*`  | Çarpma operatörü |
-| `/`  | Bölme operatörü |
-| `%`  | Mod,kalan bulma operatörü |
+| Operatörler | Açıklama |                                                
+|:-------------:|:-------------:|                                         
+| `+`  | Toplama operatörü  |                                            
+| `-`  | Çıkarma operatörü  |                                             
+| `*`  | Çarpma operatörü |                                              
+| `/`  | Bölme operatörü |                                                
+| `%`  | Mod,kalan bulma operatörü    |
+
+### Operatörlerin Öncelikleri
+| Operatör  | Açıklama | 
+|:-------------:|:-------------|
+| `()`  | Parantez | 
+| `* / %`  | Çarpma, Bölme, Mod    | 
+| `+ -`  | Toplama, Çıkarma | 
 
 -------
 ### 2. Aritmetik Atama Operatörleri
@@ -33,7 +39,7 @@
 - C++ dilinde 6 tane karşılaştırma operatörü vardır ve bu operatörler döngülerde ve koşul yapılarında kullanacağız. Bir sonraki konuda ayrıntılı anlayacağız.
 
 | Operatörler  | Anlamı | Örnek |
-|:------------:|:------:|:-----:|
+|:------------:|:---------:|:---------:|
 | `==` | Eşit mi | `4==5` bize false(0) verir |
 | `!=` | Eşit Değil | `4!=5` bize true(1) verir |
 | `>` | Büyüktür | `4>5` bize false(0) verir |
@@ -44,16 +50,32 @@
 ### 4. Mantıksal Operatörler 
 - Bir ifadenin doğru mu yanlış mı olduğunu karşılaştırmak için kullanılır. İfade doğru ise 1, yanlış ise 0 döndürür.
 
-| Operatörler  | Anlamı | 
-|:------------:|:-----------:|
-| `&&` | Mantıksal VE, Tüm ifadelerin koşulu doğrulaması gerekir |
-| `||`| Mantıksal VEYA, İfadelerden en az birinin koşulu sağlaması gerekir |
+Operatörler  | Anlamı |
+|:----------:|:-----------:|
+|`&&` | Mantıksal VE, Tüm ifadelerin koşulu doğrulaması gerekir |
 | `!` | Mantıksal DEĞİL, İfade tersini alır | 
+| `II` | Mantıksal VEYA, En az bi ifadenin koşulu doğrulaması gerekir |
 
-
+### 5. Arttırma ve Azaltma Operatörleri
+| Operatörler  | Açıklama | 
+|:-------------:|:-------------:|
+| `++`  | Arttırma Operatörü  | 
+| `--`  | Azaltma Operatörü  | 
+- örneğin;
+```
+1. b=++a;       // önce a'yı 1 artır, sonra b'ye ata 
+2. b=a++;       //önce a'yı b'ye ata, sonra a'yı 1 arttır
+-------
+1. b=--a;        //önce a'yı 1 azalt, sonra b'ye ata
+2. b=a--;        //önce a'yı b'ye ata, sonra a'yı 1 azalt
 
 ```
 
 
 
-```
+
+
+
+
+
+
