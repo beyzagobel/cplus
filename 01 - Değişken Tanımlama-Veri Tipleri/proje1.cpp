@@ -14,9 +14,9 @@ int main(){
 
    int yas=21; // yas değişkenine 21 atanmış.
 
-   float toplam=3.25; // fiat değişkenine 3.25 atanmış.
+   float toplam=3.25; // toplam değişkenine 3.25 değeri atanmış.
 
-   string ad='Beyza'; // harf değişkenine B atanmış.
+   string ad="Beyza"; // ad değişkenine Beyza değeri atanmış.
 
 // çoklu değişken tanımlarken;
 
