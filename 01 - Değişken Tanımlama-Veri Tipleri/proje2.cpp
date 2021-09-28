@@ -8,7 +8,7 @@ int main(){
     string ad,soyad;
     int kg;
     float boy;
-    float beden_kitle_indeksi=kg/(boy*boy); 
+    float beden_kitle_indeksi=kg/(boy*boy);    // değişkenler aritmetik işleme tabi tutup, sonucu tekrar bir değişkene atanmış
 
     cout<<"Ad - Soyad : ";
     cin>>ad>>soyad;
