@@ -7,28 +7,29 @@ int main(){
 
    int a=4,b=6;
    cout<<"a 'nin degeri = "<<a<<endl;
-   cout<<"b 'nin degeri = "<<b<<endl;
+   cout<<"b 'nin degeri = "<<b<<endl<<endl;
 
    cout <<"a = b++ islemi uygulaniyor..."<<endl;   
-   a=b++;                                         // b'yi a'ya ata, b'yi 1 arttır
-   cout<<"a 'nin yeni degeri = "<<a<<endl;        // a=6
-   cout<<"b 'nin yeni degeri = "<<b<<endl;        // b=7
----------------------------------------------------
-   int a=4,b=6;
+   a=b++;                                            // b'yi a'ya ata, b'yi 1 arttır
+   cout<<"a 'nin yeni degeri = "<<a<<endl;           // a=6
+   cout<<"b 'nin yeni degeri = "<<b<<endl<<endl;     // b=7
+
+// ---------------------------------------------------
+   a=4,b=6;
 
    cout <<"a = ++b islemi uygulaniyor..."<<endl;    
-   a=++b;                                        // b'yi 1 arttır, a'ya ata
-   cout<<"a 'nin yeni degeri = "<<a<<endl;       // a=7
-   cout<<"b 'nin yeni degeri = "<<b<<endl;       // b=7
--------------------------------------------------
-int a=4,b=6;
+   a=++b;                                            // b'yi 1 arttır, a'ya ata
+   cout<<"a 'nin yeni degeri = "<<a<<endl;           // a=7
+   cout<<"b 'nin yeni degeri = "<<b<<endl<<endl;      // b=7
+// ---------------------------------------------------
+   a=4,b=6;
    
    cout <<"a = b-- islemi uygulaniyor..."<<endl;  
-   a=b--;                                        // b'yi a'ya ata, b'yi 1 azalt
-   cout<<"a 'nin yeni degeri = "<<a<<endl;       // a=6
-   cout<<"b 'nin yeni degeri = "<<b<<endl;       // b=5
----------------------------------------------------
-int a=4,b=6;
+   a=b--;                                            // b'yi a'ya ata, b'yi 1 azalt
+   cout<<"a 'nin yeni degeri = "<<a<<endl;           // a=6
+   cout<<"b 'nin yeni degeri = "<<b<<endl<<endl;      // b=5
+// ----------------------------------------------------
+   a=4,b=6;
 
    cout <<"a = --b islemi uygulaniyor..."<<endl;
    a=--b;                                        // b'yi 1 azalt, a'ya ata
@@ -42,6 +43,7 @@ Output :
 
 a 'nin degeri = 4
 b' nin degeri = 6
+
 a = b++ islemi uygulaniyor...
 a 'nin yeni degeri = 6
 b 'nin yeni degeri = 7
