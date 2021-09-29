@@ -29,5 +29,20 @@ int main() {
     kosul = !(7 == 7);    // True'nin değili = F = 0 değeri döner
     cout << "!(7 == 7) ifadesinin degeri : " << kosul << endl;
 
+/*
+
+Output
+
+(2 != 7) && (2 < 7) ifadesinin degeri : 1
+(2 == 7) && (2 < 7) ifadesinin degeri : 0
+(2 == 7) && (2 > 7) ifadesinin degeri : 0
+(2 != 7) || (2 < 7) ifadesinin degeri : 1
+(2 != 7) || (2 > 7) ifadesinin degeri : 1
+(2 == 7) || (2 > 7) ifadesinin degeri : 0
+!(2 == 7) ifadesinin degeri : 1
+!(7 == 7) ifadesinin degeri : 0
+
+*/
+
     return 0;
 }
