@@ -45,7 +45,7 @@
 | `>` | Büyüktür | `4 > 5` büyük değildir, bize false(0) verir |
 | `<` | Küçüktür | `4 < 5` küçüktür doğru, bize true(1) verir |
 | `>=` | Büyük Eşittir | `4 >= 5` büyük eşit değildir, bize false(0) verir |
-| `<=` | Küçük Eşittir | `4<=5` küçük eşittir doğru, bize true(1) verir |
+| `<=` | Küçük Eşittir | `4 <= 5` küçük eşittir doğru, bize true(1) verir |
 
 -------
 
