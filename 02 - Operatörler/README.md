@@ -40,36 +40,52 @@
 
 | Operatörler  | Anlamı | Örnek |
 |:------------:|:---------:|:---------:|
-| `==` | Eşit mi | `4==5` bize false(0) verir |
-| `!=` | Eşit Değil | `4!=5` bize true(1) verir |
-| `>` | Büyüktür | `4>5` bize false(0) verir |
-| `<` | Küçüktür | `4<5` bize false(0) verir |
-| `>=` | Büyük Eşittir | `4>=5` bize false(0) verir |
-| `<=` | Küçük Eşittir | `4<=5` bize true(1) verir |
+| `==` | Eşit mi | `4 == 5` eşit değil, bize false(0) verir |
+| `!=` | Eşit Değil | `4 != 5` eşit değil doğru, bize true(1) verir |
+| `>` | Büyüktür | `4 > 5` büyük değildir, bize false(0) verir |
+| `<` | Küçüktür | `4 < 5` küçüktür doğru, bize true(1) verir |
+| `>=` | Büyük Eşittir | `4 >= 5` büyük eşit değildir, bize false(0) verir |
+| `<=` | Küçük Eşittir | `4<=5` küçük eşittir doğru, bize true(1) verir |
+
+-------
 
 ### 4. Mantıksal Operatörler 
-- Bir ifadenin doğru mu yanlış mı olduğunu karşılaştırmak için kullanılır. İfade doğru ise 1, yanlış ise 0 döndürür.
+- Bir ifadenin doğru mu yanlış mı olduğunu karşılaştırmak için kullanılır. İfade doğru(true) ise 1, yanlış(false) ise 0 döndürür.Bu operatörleri koşul ifadelerinde sıkça kullanacağız.
 
 Operatörler  | Anlamı |
 |:----------:|:-----------:|
 |`&&` | Mantıksal VE, Tüm ifadelerin koşulu doğrulaması gerekir |
-| `!` | Mantıksal DEĞİL, İfade tersini alır | 
 | `II` | Mantıksal VEYA, En az bi ifadenin koşulu doğrulaması gerekir |
+| `!` | Mantıksal DEĞİL, İfade tersini alır | 
+
+
+| True/False | Operatör | True/False | Sonuç |
+|:-------------:|:------------:|:----------:|:--------:|
+| T   | && (ve)  | T | T = 1 |
+| T  | && (ve)  | F | F = 0 |
+| F  | && (ve)  | F | F = 0 |
+| T | II (veya) | T | T =1 |
+| T   | II (veya)  | F | T = 1 |
+| F  | II (veya)  | F | F = 0 |
+| T   | ! (değil) |  | F = 0 |
+| F  | ! (değil)  |  | T = 1 |
+
+-------
 
 ### 5. Arttırma ve Azaltma Operatörleri
 | Operatörler  | Açıklama | 
 |:-------------:|:-------------:|
 | `++`  | Arttırma Operatörü  | 
 | `--`  | Azaltma Operatörü  | 
-- örneğin;
-```
-1. b=++a;       // önce a'yı 1 artır, sonra b'ye ata 
-2. b=a++;       //önce a'yı b'ye ata, sonra a'yı 1 arttır
--------
-1. b=--a;        //önce a'yı 1 azalt, sonra b'ye ata
-2. b=a--;        //önce a'yı b'ye ata, sonra a'yı 1 azalt
 
-```
+| Örnek | Açıklama | 
+|:-------------:|:-------------:|
+| `b=++a`  | önce a'yı 1 artır, sonra b'ye ata | 
+| `b=a++`  | önce a'yı b'ye ata, sonra a'yı 1 arttır | 
+| `b=--a`  | önce a'yı 1 azalt, sonra b'ye ata  | 
+| `b=a--`  | önce a'yı b'ye ata, sonra a'yı 1 azalt | 
+
+
 
 
 
