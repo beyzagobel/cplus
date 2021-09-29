@@ -8,10 +8,13 @@ int main(){
     int kare_kenari;
     cout<<"Karenin kenarini giriniz : ";
     cin>>kare_kenari;
-// program sırayla okunduğu için önce kullanıcıdan karenin kenarının girilmesi beklenir, sonra alan ve cevre hesabı yapılarak sonuç
-// alan ve cevre değişkenine atanır, buraya dikkat ediniz !!
+
+/* program sırayla okunduğu için önce kullanıcıdan karenin kenarının girilmesi beklenir, sonra alan ve cevre hesabı yapılarak sonuç
+ alan ve cevre değişkenine atanır, buraya dikkat ediniz !! */
+ 
     int cevre=kare_kenari*4;
     int alan=kare_kenari*kare_kenari;
+    
     cout<<"Karenin cevresi : "<<cevre<<endl;
     cout<<"Karenin alani : "<<alan<<endl;
 
