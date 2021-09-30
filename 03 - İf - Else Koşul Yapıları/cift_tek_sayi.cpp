@@ -27,7 +27,7 @@ Output
 
 Bir sayi giriniz : 5
 Girdiginiz sayi tek sayidir.
-
+--------------------------------
 Bir sayi giriniz : 2
 Girdiginiz sayi cift sayidir.
 

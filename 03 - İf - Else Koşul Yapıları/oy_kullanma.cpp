@@ -21,8 +21,25 @@ int main(){
 
     }
 
-    cout<<"Hoscakalin";
-    
+    cout<<"Hoscakalin.";
     return 0;
+
+/*
+
+Output
+
+Yasinizi giriniz : 15
+Oy kullanamazsiniz.
+Hoscakalin.
+-----------------------------
+Yasinizi giriniz : 18
+Oy kullananabilirsiniz.
+Hoscakalin.
+-----------------------------
+Yasinizi giriniz : 25
+Oy kullananabilirsiniz.
+Hoscakalin.
+
+*/
 
 }
