@@ -34,4 +34,5 @@ Birinci sayi ikinci sayidan buyuktur.
 Birinci sayiyi giriniz : 3
 Ikinci sayiyi giriniz : 6
 Ikinci sayi birinci sayidan buyuktur. 
+
 */
