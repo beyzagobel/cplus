@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -30,7 +31,7 @@ int main(){
         if(yanit=='E'){
                cout<<"Gizli sayi : "<<gizli<<endl;
         }
-        if(yanit=='H'){
+        else{
             cout<<"Program kapaniyor... "<<endl;
         }
     }
