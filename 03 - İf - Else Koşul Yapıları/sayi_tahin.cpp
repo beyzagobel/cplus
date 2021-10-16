@@ -1,3 +1,4 @@
+// Program tarafından atanan tamsayı tipindeki herhangi bir değerdeki sayıyı kullanıcı tarafından bulunmasını gösteren program
 
 #include <iostream>
 using namespace std;
