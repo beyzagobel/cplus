@@ -1,6 +1,6 @@
 # C++ Programlama Örnek Projeler
 
-Merhaba , öğrenmek ve aynı  zamanda da öğretmek için yazdığım basic projeleri sizlerle paylaşmak istedim.
+Merhaba ben Beyza, Bilgisayar Mühendisşiği öğrencisiyim. Bilgilerimi sizlerle paylaşmak ve paylaşırkende tekrar öğrenmek için yazdığım basic projeleri sizlerle paylaşmak istedim.
 
 Umarım sıkılmadan basitte olsa en baştan başlar ve birlikte neler öğrendiklerimizi birlikte görebiliriz 🙂  
 
